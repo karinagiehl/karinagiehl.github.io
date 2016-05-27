@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://karinagiehl.github.io
+title: Karina Giehl
+tagline: Architectural Robotics
+description: A blog to keep it up with my research in architectural robotics in a daily basis.
+paginate: 10
