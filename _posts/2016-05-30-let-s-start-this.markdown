@@ -7,6 +7,8 @@ layout: post
 
 I think that architecture has countless definitions. You can ask thousands of people and probably every one of them will say something different. For me, I would say that I’m still molding my opinion about what architecture is. However, I could define architecture as being something as: the act of thinking about all the aspects of a project, seeking to make the best outcome of the situation. An architect thinks about everything that But I don’t think that architecture is just what the architect does. Look at these animal’s home, for example:
 
+![Image of birds](http://noctulachannel.com/wp-content/uploads/2014/03/ninho-aves.jpg)
+![Image of birds2](https://s-media-cache-ak0.pinimg.com/736x/2a/c9/a0/2ac9a01b2d7431b87c4a86b6eb8671ae.jpg)
 I don’t know if they actually plan their houses, but still, I think that architecture is all over, not just in buildings. It can be in the nature, and why not also in robots?
 
 **What is a robot?**
