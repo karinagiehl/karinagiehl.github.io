@@ -7,7 +7,7 @@ Last Thursday class was divided in **three parts**:
 
 The **first one** was dedicated to learn how to use *Rhino* and *Grasshopper* together, to make projects that will be cut on the laser cutter. We learned how to make the faces of a box with a parametric pattern that was created using a jpeg image on Grasshopper. Next week we will make the box and bring it to class on Thursday.
 
-![Image of grasshopper and rhino](http://code-collective.cc/wp-content/uploads/2012/11/RhinoGrasshopper-337x256.jpg)
+![Image of rhino](http://code-collective.cc/wp-content/uploads/2012/11/RhinoGrasshopper-337x256.jpg)
 
 The **second part** was dedicated to learn how to use the laser cutter by actually cutting something. Professor Balogh made a simple design on Autocad to show how different layer colors can affect your piece. We also learned safety tips and what materials we can use on the cutters. The room was very hot and noisy, because the machines require fans, since they use lasers to burn and mark the materials.
 
