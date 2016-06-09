@@ -15,7 +15,7 @@ The MIT Media Lab says that:
 
 Here's a video explaining about the project:
 
-https://www.youtube.com/watch?v=ieOHAbHL81E
+<a href="https://www.youtube.com/watch?v=ieOHAbHL81E">https://www.youtube.com/watch?v=ieOHAbHL81E</a>
 
 And here is the short version, which kind of resume what Boxie can do:
 
