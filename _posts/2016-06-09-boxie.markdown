@@ -19,7 +19,7 @@ Here's a video explaining about the project:
 
 And here is the short version, which kind of resume what Boxie can do:
 
-http://resenv.media.mit.edu/Boxie/boxieShortV1.mp4
+<a href="http://resenv.media.mit.edu/Boxie/boxieShortV1.mp4">http://resenv.media.mit.edu/Boxie/boxieShortV1.mp4</a>
 
 That said, I would get inspiration from Boxie to make my "Cute Stealer Robot". So I made some guidelines for how should I proceed with the design of my robot:
 
