@@ -29,6 +29,6 @@ Link:<a href="LINK" to the wheel coding> https://learn.adafruit.com/force-sensit
 
 Link:<a href="LINK" to the wheel coding> http://www.kr4.us/force-sensitive-resistor-square.html?gclid=CL6JpMmWlc0CFQYuaQodCWsAKg</a>
 
-They are **Force Sensitive Resistors**, or a *FSRs*, which are **sensors** that allow you to detect **physical pressure, squeezing and weight**. 
+They are **Force Sensitive Resistors**, or a *FSRs*, which are **sensors** that allow you to detect *physical pressure, squeezing and weight*. 
 
-So when the robot asks for the **person's belonging**, and the persons places at the top of that sensor, it will send a message to the robot, saying that there's something in there. Then the robot will move and *"steal"* that thing. But only until a certain distance, so the person can get its things back and not get mad with the robot.
+So when the robot asks for the **person's belonging**, and the persons places at the top of that sensor, it will send a message to the robot, saying that there's something in there. Then the **robot will move** and *"steal"* that thing. But only until a **certain distance**, so the person can get its things back and not get mad with the robot.
