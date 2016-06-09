@@ -5,15 +5,17 @@ layout: post
 ---
 I was searching for more sources to help me with my robot and I found these two links that may help me with the **codes** that I will need to do the robot's program:
 
+The first one is about a coding that help the robot to **reconize paths**, not hit on objects and this kind of things:
+
 ![Image of directions](https://assets.toptal.io/uploads/blog/image/482/toptal-blog-image-1408714218464.png)
 
 LINK:<a href="LINK" to the directional coding: >https://www.toptal.com/robotics/programming-a-robot-an-introductory-tutorial</a>
 
+The second ink is about **calculating how far your robot will move**, if you wish to control this. And it's based on the size of the wheels:
+
 ![Image of wheels](http://s3.amazonaws.com/robotc-wiki/wiki-images/thumb/3/3e/BoeBot_Wheel_Circumference.png/800px-BoeBot_Wheel_Circumference.png)
 
 LINK:<a href="LINK" to the wheel coding>http://www.robotc.net/wikiarchive/Tutorials/Arduino_Projects/Mobile_Robotics/BoeBot/Using_encoders_to_drive_some_distance</a>
-
-The first one is about a coding to help the robot to **reconize paths**, not hit on objects and this kind of things. The second ink is about **calculating how far your robot will move**, if you wish to control this. And it's based on the size of the wheels.
 
 Since I want my robot to **"steal"** some of the person's belongings, it needs to move, but only until a **certain distance**. So this will be very useful.
 
