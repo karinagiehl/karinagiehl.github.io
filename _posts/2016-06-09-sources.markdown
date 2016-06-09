@@ -3,30 +3,29 @@ published: true
 title: Sources
 layout: post
 ---
-I found these two links that may help me with the codes for my robot:
+I found these two links that may help me with the **codes for my robot**:
 
-
-https://assets.toptal.io/uploads/blog/image/482/toptal-blog-image-1408714218464.png
+![Image of directions](https://assets.toptal.io/uploads/blog/image/482/toptal-blog-image-1408714218464.png)
 
 <a href="LINK" to the directional coding: >https://www.toptal.com/robotics/programming-a-robot-an-introductory-tutorial</a>
 
-http://s3.amazonaws.com/robotc-wiki/wiki-images/thumb/3/3e/BoeBot_Wheel_Circumference.png/800px-BoeBot_Wheel_Circumference.png
+![Image of wheels] (http://s3.amazonaws.com/robotc-wiki/wiki-images/thumb/3/3e/BoeBot_Wheel_Circumference.png/800px-BoeBot_Wheel_Circumference.png)
 
 <a href="LINK" to the wheel coding >http://www.robotc.net/wikiarchive/Tutorials/Arduino_Projects/Mobile_Robotics/BoeBot/Using_encoders_to_drive_some_distance</a>
 
-The first one is about coding and basic robotics and the second one is about calculating how far your robot will move, if you wish to control it.
+The first one is about coding to help the robot to **reconize paths** and not hit on objects and the second one is about **calculating how far your robot will move**, if you wish to control it.
 
-Since I want my robot to "steal" some of the person's belongings, it needs to move, but only until a certain distance. So this will be very useful.
+Since I want my robot to **"steal"** some of the person's belongings, it needs to move, but only until a **certain distance**. So this will be very useful.
 
-Also, I found these two sensors that I can use on the place that the person will put the object:
+Also, I found these **two sensors** that I can use on the place that the person will put the object:
 
 
-https://cdn-learn.adafruit.com/assets/assets/000/000/426/original/force___flex_FSR402_MED.jpg?1396762932
+![Image of sensor1](https://cdn-learn.adafruit.com/assets/assets/000/000/426/original/force___flex_FSR402_MED.jpg?1396762932)
 
 LINK: https://learn.adafruit.com/force-sensitive-resistor-fsr/overview
 
 
-http://d2kmb61w1swc5t.cloudfront.net/images/09376-1.jpg
+![Image of SENSOR2](http://d2kmb61w1swc5t.cloudfront.net/images/09376-1.jpg)
 
 LINK: http://www.kr4.us/force-sensitive-resistor-square.html?gclid=CL6JpMmWlc0CFQYuaQodCWsAKg
 
