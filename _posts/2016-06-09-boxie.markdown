@@ -21,6 +21,8 @@ And here is the **short version**, which kind of resumes what Boxie does:
 
 <a href="http://resenv.media.mit.edu/Boxie/boxieShortV1.mp4">http://resenv.media.mit.edu/Boxie/boxieShortV1.mp4</a>
 
-That said, I would get inspiration from *Boxie* to make my **"Cute Stealer Robot"**. So I made some guidelines for how should I proceed with the design of my robot. Which would have to be small, light, cheap, have a cute "face", made with a material that people know, like cardboard or MDF, also a nice and soft voice (if it will have one). All of this to acquire the **"cuteness factor"** that this robot needs to trick humans.
+That said, I would get inspiration from *Boxie* to make my **"Cute Stealer Robot"**. So I made some guidelines for how should I proceed with the design of my robot.
+
+Which would have to be small, light, cheap, have a cute "face", made with a material that people know, like cardboard or MDF, also a nice and soft voice (if it will have one). All of this to acquire the **"cuteness factor"** that this robot needs to trick humans.
 
 
