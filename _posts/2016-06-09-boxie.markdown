@@ -3,15 +3,15 @@ published: true
 title: Boxie
 layout: post
 ---
-I was thinking about what my robot will look like if I continue with the idea of making a cute robot that steals stuff, so I was searching and I found Boxie.
+I was thinking about what my robot will look like if I continue with the idea of making a **cute robot that steals stuff**, so I was searching and I found Boxie.
 
 The MIT Media Lab says that: 
 
-"Boxie is a mobile interactive robotic camera built with the goal of actively capturing stories about its environment and the people within it.
+>"Boxie is a mobile interactive robotic camera built with the goal of actively capturing stories about its environment and the people >within it.
 
-Boxie roamed through the MIT Media Lab for a week, to learn about the humans there.
+>Boxie roamed through the MIT Media Lab for a week, to learn about the humans there.
 
-It had a goal of capturing stories about its inhabitants. Inspired by projects such as the tween bot and the afghan explorer, the robot attempted to leverage humans to complete its goals."
+>It had a goal of capturing stories about its inhabitants. Inspired by projects such as the tween bot and the afghan explorer, the >robot attempted to leverage humans to complete its goals."
 
 Here's a video explaining about the project:
 
@@ -24,3 +24,5 @@ http://resenv.media.mit.edu/Boxie/boxieShortV1.mp4
 That said, I would get inspiration from Boxie to make my "Cute Stealer Robot". So I made some guidelines for how should I proceed with the design of my robot:
 
 -My robot should be small, light, cheap, have a cute "face", made with a material that people know, like cardboard or MDF and a nice and soft voice (if it will have one). All of this to acquire the "cuteness factor".
+
+
