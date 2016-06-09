@@ -8,11 +8,11 @@ I found these two links that may help me with the codes for my robot:
 
 https://assets.toptal.io/uploads/blog/image/482/toptal-blog-image-1408714218464.png
 
-LINK: to the directional coding: https://www.toptal.com/robotics/programming-a-robot-an-introductory-tutorial
+<a href="LINK" to the directional coding: >https://www.toptal.com/robotics/programming-a-robot-an-introductory-tutorial</a>
 
 http://s3.amazonaws.com/robotc-wiki/wiki-images/thumb/3/3e/BoeBot_Wheel_Circumference.png/800px-BoeBot_Wheel_Circumference.png
 
-LINK to the wheel coding: http://www.robotc.net/wikiarchive/Tutorials/Arduino_Projects/Mobile_Robotics/BoeBot/Using_encoders_to_drive_some_distance
+<a href="LINK" to the wheel coding >http://www.robotc.net/wikiarchive/Tutorials/Arduino_Projects/Mobile_Robotics/BoeBot/Using_encoders_to_drive_some_distance</a>
 
 The first one is about coding and basic robotics and the second one is about calculating how far your robot will move, if you wish to control it.
 
