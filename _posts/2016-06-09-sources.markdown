@@ -31,4 +31,4 @@ Link:<a href="LINK" to the wheel coding> http://www.kr4.us/force-sensitive-resis
 
 They are Force Sensitive Resistors, or a FSRs, which are sensors that allow you to detect physical pressure, squeezing and weight. 
 
-So when the robot asks for the **person's belonging**, and the persons places it at the top of that sensor, it will send a message to the robot, saying that there's something in there. Then the robot will move and *"steal"* that thing. But only until a certain distance, so the person can get its things back and not get mad with the robot.
+So when the robot asks for the **person's belonging**, and the persons places at the top of that sensor, it will send a message to the robot, saying that there's something in there. Then the robot will move and *"steal"* that thing. But only until a certain distance, so the person can get its things back and not get mad with the robot.
