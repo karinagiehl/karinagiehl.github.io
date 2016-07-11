@@ -15,14 +15,15 @@ At first I met professor Balogh to talk about the materials that I would need fo
 - Some Male/Male Jumper Wires
 
 
-(FOTO DOS MATERIAIS)
+<img src="../20160711_001624.jpg" width="500" title="materials"/> 
 
 
 I had the photon, the jumper wires, professor Balogh loaned me the motor and the battery. I bought the motor driver and designed the new wheel.
 In the next week, we talked about the design of the wheel, and I spent my time trying to get an accurate -but new- version of the chair’s wheel. It was hard to figure out how to make it with the same measurements but leaving space for the motor. My final design was something like this:
 
 
-(IMAGEM DO SKETCH)
+<img src="../1.jpg" width="500" title="materials"/>
+<img src="../2.jpg" width="500" title="materials"/>
 
 
 Actually after I printed the 3D parts, I had to redo one of the gears, because I made it in the wrong size, so, for now, the gear is waiting to be printed in the Idea Shop, because the line was kind of long. And I still need to drill some holes in the model and fix the middle, because it is too loose and can make the wheels function in a non-expected way.
