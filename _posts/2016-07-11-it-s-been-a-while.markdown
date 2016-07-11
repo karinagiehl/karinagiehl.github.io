@@ -5,14 +5,14 @@ layout: post
 ---
 Ok, so I realized that I’m really bad at blogging and being sick haven’t helped at all, it actually made everything really hard, but I need to finish the project anyway. I always have ideas for my posts but then they just get lost between other ideas. So today, after not posting for a while I am finally putting together all my ideas and efforts in these past weeks.
 
-At first I met professor Balogh to talk about the materials that I would need for my prototype. So the list was made of:
+At first I met professor Balogh to talk about the materials that I would need for my prototype. The *list* is made of:
 
 - A 3D model of the new wheel
 - DRV8825 High Current Stepper Motor Driver Carrier
 - Motor
 - Photon
--12 Volt Battery
-- Some Male/Male Jumper Wires
+- 12 Volt Battery
+- 9 Male/Male Jumper Wires
 
 
 <img src="../20160711_001624.jpg" width="500" title="materials"/> 
